@@ -1,0 +1,25 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_title
+{
+    text-align: center;
+}
+
+.main_title h1
+{
+    font-size: 60px;
+    
+}
